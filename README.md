@@ -10,6 +10,14 @@ medusa-llm"><b>Blog</b></a> | <a href="ROADMAP.md"><b>Roadmap</b></a> |
 - [2023/09] Medusa v0.1 is released! 🎉
 
 ---
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/medusa-llm?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/medusa-llm?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/medusa-llm?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.1-blue?style=flat-square)](https://pypi.org/project/medusa-llm)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
+
 ## Introduction
 
 Medusa is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
